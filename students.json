@@ -1,0 +1,29 @@
+[
+  {
+    "studentid": 1, 
+    "studentName": "Amy Adams", 
+    "grades": [
+      {"subject": "Math", "grade": "A"}, 
+      {"subject": "English", "grade": "A"}, 
+      {"subject": "History", "grade": "A"} 
+    ]
+  },
+  {
+    "studentid": 2, 
+    "studentName": "Bruce Banner", 
+    "grades": [
+      {"subject": "Math", "grade": "B"}, 
+      {"subject": "English", "grade": "B"}, 
+      {"subject": "History", "grade": "B"} 
+    ]
+  },
+  {
+    "studentid": 3, 
+    "studentName": "Cameron Cozy", 
+    "grades": [
+      {"subject": "Math", "grade": "C"}, 
+      {"subject": "English", "grade": "C"}, 
+      {"subject": "History", "grade": "C"} 
+    ]
+  }
+  ]
